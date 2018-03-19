@@ -40,11 +40,10 @@ Possibilitar alteração da quantidade e remoção de itens.
  -  Automação com Npm scripts.
 
 #### Submissão
- - Você pode criar um fork desse projeto e entregar via Pull Request.
- - Se você preferir, pode nos enviar um link de acesso ao seu código pelo email: beinlog@grupoinlog.com.br
+ - Nos envie um link para download do seu código pelo email: beinlog@grupoinlog.com.br
 
 
- ** Api da Marvel **
+ **Api da Marvel**
  - Portal: https://developer.marvel.com/
  - Documentação: https://developer.marvel.com/docs
 

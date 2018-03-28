@@ -40,7 +40,7 @@ Possibilitar alteração da quantidade e remoção de itens.
  -  Automação com Npm scripts.
 
 #### Submissão
- - Nos envie um link para download do seu código pelo email: beinlog@grupoinlog.com.br
+ - Nos envie um link para download do seu código pelo email: beinlog@inlog.com.br
 
 
  **Api da Marvel**

@@ -1,4 +1,4 @@
-# Desafio Inlog - Vaga Frontend Developer [Teste encerrado]
+# Desafio Inlog - Vaga Frontend Developer 
 Desenvolver uma aplicação de 3 telas (seguir layout disponível na pasta assets do repositório) que
 simule uma loja virtual de quadrinhos, consumindo as APIs da Marvel para developers.
 
